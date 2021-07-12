@@ -1,0 +1,2 @@
+# StudentAdmissionSQLiteApp
+ Basic Admission App
