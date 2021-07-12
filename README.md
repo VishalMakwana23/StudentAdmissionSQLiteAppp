@@ -1,6 +1,6 @@
 # StudentAdmissionSQLiteApp
- Basic Admission App
 
+simple Student Admission System using SQlite
 
 
 
@@ -10,7 +10,10 @@
  - UILabel
  - UIButton
  - UIImageView
- - UISearchBar
+ - UITextField
+ - UITextView
+ - UITableView
+ - UIAlertController
  
  ## StudentAdmissionSQLiteApp Work
 
