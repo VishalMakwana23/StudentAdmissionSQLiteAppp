@@ -15,7 +15,7 @@
  ## StudentAdmissionSQLiteApp Work
 
 
- ![](StudentAdmissionSQLiteAppp/blob/main/StudentAdmissionSQLiteApp/output/sqlite.gif)
+ ![](StudentAdmissionSQLiteApp/output/sqlite.gif)
  
 
 
