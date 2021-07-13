@@ -137,54 +137,6 @@ class ViewController: UIViewController {
 
     private var studArray = [Students]()
     
-//
-//    private let bgimage: UIImageView = {
-//        let bgimage = UIImageView()
-//        bgimage.image = UIImage(named: "bg2.jpg")
-//        return bgimage
-//    }()
-//
-//    private let label :UILabel = {
-//        let label = UILabel()
-//        let font : UIFont = UIFont.boldSystemFont(ofSize: 30)
-//        label.font = .boldSystemFont(ofSize: 22)
-//        label.text = "VNSGU"
-//        label.textAlignment = .center
-//        label.font = font
-//        label.textColor = .black
-//        return label
-//    }()
-//
-//    private let username : UITextField = {
-//
-//        let textView = UITextField()
-//        textView.placeholder = "Enter Username"
-//        textView.textAlignment = .center
-//        textView.backgroundColor = .white
-//        textView.autocapitalizationType = .none
-//        textView.layer.cornerRadius = 70
-//        return textView
-//    }()
-//
-//    private let password : UITextField = {
-//
-//        let textView = UITextField()
-//        textView.placeholder = "Enter Password"
-//        textView.textAlignment = .center
-//        textView.backgroundColor = .white
-//        textView.autocapitalizationType = .none
-//        textView.layer.cornerRadius = 70
-//        return textView
-//    }()
-//
-//    private let vcbutton : UIButton = {
-//        let vc_button = UIButton()
-//        vc_button.setTitle("Login", for: .normal)
-//        vc_button.backgroundColor = .black
-//        vc_button.addTarget(self, action: #selector(redirect), for: .touchUpInside)
-//        vc_button.layer.cornerRadius = 50
-//        return vc_button
-//    } ()
 
     
     private let myImageView:UIImageView = {
